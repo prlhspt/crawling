@@ -1,0 +1,34 @@
+{
+  "Cell": {
+    "cm_config": {
+      "lineNumbers": true
+    }
+  },
+  "MarkdownCell": {
+    "cm_config": {
+      "lineWrapping": true
+    }
+  },
+  "CodeCell": {
+    "cm_config": {
+      "lineWrapping": true
+    }
+  },
+  "load_extensions": {
+    "nbextensions_configurator/config_menu/main": true,
+    "contrib_nbextensions_help_item/main": true,
+    "hinterland/hinterland": true,
+    "snippets/main": false,
+    "snippets_menu/main": true,
+    "splitcell/splitcell": true,
+    "toc2/main": true,
+    "collapsible_headings/main": true,
+    "execute_time/ExecuteTime": true,
+    "code_prettify/code_prettify": true,
+    "codefolding/main": true
+  },
+  "Notebook": {
+    "Header": false,
+    "Toolbar": true
+  }
+}
